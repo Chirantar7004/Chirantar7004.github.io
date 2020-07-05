@@ -1,0 +1,76 @@
+---
+title: 'Why you need a VPN connection? Does it ensure that you’re safe?'
+date: 2020-04-17
+permalink: /posts/2020/04/vpn/
+tags:
+  - VPN
+  - Threat Intelligence
+  - Security
+---
+Amidst the coronavirus pandemic, organizations have been resorted to working from home. Although working from home is not a new methodology, it has not been* every organization’s cup of tea!* Many of such organizations have been facing numerous problems due to remote-login and enabling access to various internal system infrastructure remotely. Many employees who have been experiencing this as a first hand might be wondering about the need for a VPN connection that needs to established even before logging in for remote access. Slower internet speeds, connections dropouts, delays in performing operations across the environments are some of the problems faced by employees. Many of them have been wondering upon, why we need a VPN connection for remote access? **Does VPN protect me from every threat on the internet?** **What resources do I need in addition to VPN for securing the remote-access?** Since most of the employees are not very much familiar with complex networking terms, I will try to answer these questions in a layman’s term.
+
+## **What is VPN?**
+
+VPN is an abbreviation for Virtual Private Network. Wow, that seems pretty much complicated, isn’t it? No! To help you understand this seemingly complex term, we will dissect its technical jargon in 2 parts viz. virtual and private network. What do you mean by a private network?
+
+* A private network is a type of computer network that is restricted to certain groups of users or devices. On the other hand, a public is accessible by everyone on the internet. Most of the internet traffic consumed by us is related to the public network.
+
+* Google search engine is hosted in public networks so that everyone could have access to it and use it for resolving their queries.
+
+* Bluetooth games or file transfer is an amazing example of a private network. Only the devices of users who are connected to your device by Bluetooth can take part in the file transfer process.
+
+Now coming to the first term, virtual: something that is not existing physically.
+
+* Virtual Private Network enables users to be present in the private network even though users might not be present *physically*.
+
+* Organizations works in a private network domain and employees usually gain access to the network by connecting to internal networks such as WiFi hotspot.
+
+* Even though you’re not physically present in the office, a VPN connection makes it possible for you to present in the company private network virtually.
+
+* As a result, every operation performed by you makes the same effect as if you’re connected to the private network of your company.
+
+### **How does VPN protects you?**
+
+Most of the software providing VPN services uses advanced encryption techniques for securing the communication. **Encryption** allows the data sent from source to destination to be unreadable, thereby protecting privacy, integrity, and confidentiality of data.
+
+![](https://cdn-images-1.medium.com/max/2000/1*1tEdTOqcUclbCEMSVoixIg.jpeg)
+
+* Whenever a person uses a VPN connection, data sent from its device is automatically encrypted before being sent to the destination through your internet service provider.
+
+* Once the data from your device leaves, it enters sets of public networks before reaching the destination. As your data is traveling through a public network, malicious users such as hackers can store and sniff the data.
+
+* An attacker might be able to control one of the routers through which your data travels and thus pose a risk of losing out the confidentiality and integrity of the data before it reaches the final destination.
+
+However, the use of *strong* encryption techniques will mitigate the security risks when there is use of public networks. In short, the use of VPN will mitigate the following risks
+
+* Confidentiality of your data by making it unreadable for malicious users in public networks.
+
+* Integrity of your data by ensuring that data sent through your devices is unaltered during its transmission.
+
+* Helps in protecting yourself from malicious redirections as the information regarding destination and source remains undisclosed to the attacker due to encryption.
+
+### **Risks not mitigated by use of VPN!**
+
+VPN although inherent part of protecting your end to end communication, it won’t be useful against attacks originating at the endpoints of communication. VPN service won’t help in protecting against various types of malware on your device.
+
+* Malware are types of computer viruses that are aimed at stealing and protecting Eg, it might be possible that your device gets malware through external storage devices, then in such a case, VPN won’t protect you from malware.
+
+* Attacks on industrial control systems through malware originating from an external device is another example of risks not covered by a VPN.
+
+* Suppose that you’re vising a website while using a VPN and download some freeware which might be interesting to you initially but turns out to be a malware in the end. As a result, a VPN cannot protect users from malicious websites.
+
+* For organizations, having a remote VPN access for their employees won’t protect them from other cybersecurity risks such as social engineering, control, and management of access & identities.
+
+### **How can some of these risks can be prevented?**
+
+Although there are several steps in ensuring an adequate amount of security, the existence of a perfectly secured system is merely an illusion. However, certain steps could minimize the cyber security risks for employees during this pandemic! Here are those:
+
+* Avoid general internet surfing on the device which is used for remote access to your company as there might be chances of getting infected by malware.
+
+* Frequently change the passwords on devices including your WiFi routers, as they can also be a target for an attack.
+
+* Ensure your operating system is up-to-date by installing all updates as some security-relevant updates might be dependent on other general updates.
+
+* Install an anti-virus software if your device doesn’t have one already. Also, make sure to scan the system using it at least once a week!
+
+![](https://cdn-images-1.medium.com/max/3840/1*wB81odGIX5dU5_IaEaf1cg.jpeg)
