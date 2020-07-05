@@ -17,6 +17,9 @@ While almost all of my friends made use of consultancy to ease up pressure of ha
 I was anxiously waiting after sending the documents which had not been received at Munich and had been untracable! I had thought that admission procedure would have been over as I saw many getting rejects on [gradcafe](https://www.thegradcafe.com/survey/index.php?q=Computer+Science). 
 
 **Results**
-While I was working for Tata Consultancy services on that day, I had done most of the required tasks of the day and was waiting near the canteen during lunch time. As I received the notification, it showed up the preview of mail from TUM without the content!(old phone) Alas, I got frightened to read it as it could have been a rejection. But wait, it was an accept! ![Admission!](/images/TUM_admission.jpg) 
+While I was working for Tata Consultancy services on that day, I had done most of the required tasks of the day and was waiting near the canteen during lunch time. As I received the notification, it showed up the preview of mail from TUM without the content!(old phone) Alas, I got frightened to read it as it could have been a rejection. But wait, it was an accept! 
+
+![Admission!](https://github.com/Chirantar7004/Chirantar7004.github.io/blob/master/_posts/images/TUM_admission.jpg)
+
 
 I couldn't believe it and made my friends to read it for me, hahaha! Thanks a ton to all my family and friends who stayed with me in toughest times :') ...I have no words others than "Hell yeah TUM " :')
