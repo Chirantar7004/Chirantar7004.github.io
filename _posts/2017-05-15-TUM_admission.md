@@ -19,7 +19,7 @@ I was anxiously waiting after sending the documents which had not been received 
 **Results**
 While I was working for Tata Consultancy services on that day, I had done most of the required tasks of the day and was waiting near the canteen during lunch time. As I received the notification, it showed up the preview of mail from TUM without the content!(old phone) Alas, I got frightened to read it as it could have been a rejection. But wait, it was an accept! 
 
-![](https://github.com/Chirantar7004/Chirantar7004.github.io/blob/master/_posts/images/TUM_admission.jpg)
+<img src ="https://github.com/Chirantar7004/Chirantar7004.github.io/blob/master/_posts/images/TUM_admission.jpg" align='center'> <br/>
 
 
 I couldn't believe it and made my friends to read it for me, hahaha! Thanks a ton to all my family and friends who stayed with me in toughest times :') ...I have no words others than "Hell yeah TUM " :')
