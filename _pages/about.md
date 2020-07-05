@@ -1,12 +1,4 @@
----
-permalink: /
-title: "Chirantar Nalawade"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 Welcome,
 
 My name is Chirantar Nalawade and I am security researcher currently studying Masters in Informatics in final semester at the [Technical University of Munich](https://www.in.tum.de/en/research). I am also currently working with Research and Development team at PwC Cyber Security since October 2018. I graduated with a Bachelor's degree in Computer Engineering with a very good performance from the University of Mumbai in 2016. 
