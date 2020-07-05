@@ -1,7 +1,7 @@
 ---
 title: 'Suprise Suprise! Yey I got into TUM'
 date: 2017-05-15
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2017/05/TUM_admission/
 tags:
   - achievement
   - TUM
