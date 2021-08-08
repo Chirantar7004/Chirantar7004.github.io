@@ -11,7 +11,7 @@ Hi, I'm Chirantar Nalawade and I am a Computer Scientist currently working at in
 
 I look forward to solving critical problems in the security domain. Solving problems with code has been one of my key strengths & since last 8 year, I have been dealing with several programming languages such as C, Java, and Python and with my innate ability to learn a new technology faster
  
-I have also gained specialist knowledge in IT security ranging from various topics such as Cloud Security, Application Security to Confidential and Secure AI  [coursework](https://www.in.tum.de/en/current-students/masters-programs/informatics/elective-modules/fpo-2007-and-fpsos-since-2012/) at TUM 
+I have also gained specialist knowledge in IT security ranging from various topics such as Cloud Security, Application Security to Confidential and Secure AI  via [extensive coursework](https://www.in.tum.de/en/current-students/masters-programs/informatics/elective-modules/fpo-2007-and-fpsos-since-2012/) at TUM 
 My master thesis am researching on the intersection of machine learning techniques of Natural Language Processing and differential privacy to provide a confidential Deep Learning on Natural Language Processing under [Prof. Jens Grossklags](https://www.in.tum.de/cybertrust/home/) at TUM.
  
 My bachelor thesis was focused on efficient discovery of XSS and SQL Injection vulnerability. Through innovative technique of combining 2 well known pentesting methods i.e. black box testing and white box testing, I was able to increase the efficiency of the detection of both vulnerabilities.
